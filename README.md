@@ -6,6 +6,8 @@ lecture materials.  Solutions to assignments are available upon request
 provided that the requester can show evidence that they are an
 instructor.
 
+## License
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
